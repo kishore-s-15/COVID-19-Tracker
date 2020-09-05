@@ -1,5 +1,7 @@
 # COVID-19 Tracker
-This web app has been developed using React and deployed using Firebase Hosting
+This web app has been developed using React & uses [disease.sh](https://disease.sh/) - Open Disease Data API in backend for getting the COVID-19 data
+It is deployed using Firebase Hosting
+
 > Link: https://covid-19-tracker-53aa4.web.app/
 
 <h3 align="center">Wireframe of the web app</h3>
